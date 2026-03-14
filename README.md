@@ -1,16 +1,38 @@
-# alumni_tracker
+# Alumni Tracker System
 
-A new Flutter project.
+## Deskripsi Aplikasi
 
-## Getting Started
+Alumni Tracker System adalah aplikasi berbasis web yang digunakan untuk mencatat dan melacak data alumni seperti nama, tahun lulus, pekerjaan, dan perusahaan tempat bekerja.
 
-This project is a starting point for a Flutter application.
+Aplikasi ini dibuat menggunakan framework Flutter sebagai bagian dari tugas Rekayasa Kebutuhan.
 
-A few resources to get you started if this is your first Flutter project:
+## Fitur Aplikasi
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Dashboard statistik jumlah alumni
+* Tambah data alumni
+* Edit data alumni
+* Hapus data alumni
+* Pencarian data alumni
+* Tracker jumlah alumni
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Teknologi yang Digunakan
+
+* Flutter
+* Dart
+* Material UI
+
+## Pengujian Kualitas Aplikasi
+
+| No | Aspek Kualitas | Skenario Pengujian          | Hasil    |
+| -- | -------------- | --------------------------- | -------- |
+| 1  | Functional     | Menambahkan data alumni     | Berhasil |
+| 2  | Functional     | Mengedit data alumni        | Berhasil |
+| 3  | Functional     | Menghapus data alumni       | Berhasil |
+| 4  | Functional     | Mencari data alumni         | Berhasil |
+| 5  | Usability      | Tampilan mudah digunakan    | Berhasil |
+| 6  | Performance    | Aplikasi berjalan tanpa lag | Berhasil |
+
+
+
+Dashboard
+Halaman Tracker Alumni
